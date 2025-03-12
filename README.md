@@ -1,4 +1,4 @@
-# Hashtable
+# A Simple Hash Table Implementation
 
 ## Design Process
 
